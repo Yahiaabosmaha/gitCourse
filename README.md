@@ -1,2 +1,2 @@
 # gitCourse
-## Yahia
+## Project Notes
